@@ -136,7 +136,7 @@ def approval():
       logo()
       pass
     else:
-      print("Your Token :1-0-2-3-9-u-0-_-a-2-3-9 )
+      print("Your Token :"+id)
       print('\33[1;37m----------------------------------------------')
       print("\33[1;32mImportant Note")
       print("\33[1;37m----------------------------------------------")
@@ -145,7 +145,7 @@ def approval():
       print('Free wale dur rahe :)')
       print('\33[1;37m----------------------------------------------')
       print ('Tool Owner: DEVI -')
-      print("Your Token : BWquMYcz01LbQqyeX77NlqxjjoiVjPzxDlmvOB7CfL2m6tQ85G5tTy8O5i0sJGFpyS1baz5il6jZCPh9V6bfJZBBBuF2u9zSbEtuQijqGqrOXDNMHh4)
+      print("Your Token : "+id)
       input('IF U WANT TO BUY THEN PRESS ENTER ')
       tks = ('Hello%20DEVI%20!%20Please%20Approve%20My%20Token%20My%20Token%20Is%20:%20)
       os.system('am start https://wa.me/+923263342276?text='tks
